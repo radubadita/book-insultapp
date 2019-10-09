@@ -51,3 +51,11 @@
   </profiles>
 	<artifactId>InsultApp</artifactId>
 </project>
+
+<dependencies>
+	<dependency>
+		<groupId>org.postgresql</groupId>
+		<artifactId>postgresql</artifactId>
+		<version>42.2.8</version>
+	</dependency>
+</dependencies>
